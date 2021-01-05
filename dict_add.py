@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
-dict1 = {'aa': 'bb', 'cc': 'dd'}
-dict2 = {'ee': 'ff'}
+dict1 = {"aa": "bb", "cc": "dd"}
+dict2 = {"ee": "ff"}
 
 dict1.update(dict2)
 dict3 = dict1
